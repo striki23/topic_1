@@ -1,6 +1,6 @@
 a = "-16"
 b = "39.8"
 
-add = float(a) + float(b) # здесь Ваш код
+add = float(a) + float(b)  # здесь Ваш код
 
 print("Сумма чисел:", add)  # допишите код
